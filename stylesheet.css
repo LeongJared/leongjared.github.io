@@ -1,6 +1,4 @@
 html, body {
-  background: navy;
-
   background: -webkit-linear-gradient(to bottom right, navy, gray);
 
   background: linear-gradient(to bottom right, navy, gray)
