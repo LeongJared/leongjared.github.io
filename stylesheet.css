@@ -1,9 +1,9 @@
 html, body {
-  background: #6699cc;
+  background: #666699;
 
-  background: -webkit-linear-gradient(to bottom right, #6699cc, gray);
+  background: -webkit-linear-gradient(to bottom right, #666699, gray);
 
-  background: linear-gradient(to bottom right, #6699cc, gray);
+  background: linear-gradient(to bottom right, #666699, gray);
 
   margin: 0;
   height: 100%;
