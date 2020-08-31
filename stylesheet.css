@@ -4,4 +4,7 @@ body {
   background: -webkit-linear-gradient(to bottom right, navy, gray);
 
   background: linear-gradient(to bottom right, navy, gray)
+
+  margin: 0;
+  padding: 0;
 }
