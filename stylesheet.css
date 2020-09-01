@@ -23,7 +23,13 @@ nav {
   float: left;
   height: 50px;
   width: 150px;
-  padding-top: 50px;
+  padding-top: 20px;
   font-size: 18px;
   text-align: left;
+
+}
+
+#me {
+  text-align: left;
+  font-size: 40px;
 }
