@@ -15,7 +15,7 @@ html, body {
 body {
   text-align: center;
   padding-top: 20px;
-  position: relative;
+  position: static;
 }
 
 nav {
@@ -23,7 +23,7 @@ nav {
   position: static;
   float: left;
   height: 50px;
-  width: 100px;
+  width: 200px;
   padding-top: 50px;
   font-size: 20px;
 }
