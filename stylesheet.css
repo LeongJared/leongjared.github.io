@@ -14,5 +14,13 @@ html, body {
 
 body {
   text-align: center;
+  padding-top: 20px;
+}
 
+nav {
+  text-align: center;
+  position: static;
+  float: left;
+  height: 30px;
+  width: 20px;
 }
