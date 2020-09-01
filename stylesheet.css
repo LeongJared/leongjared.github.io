@@ -19,11 +19,11 @@ body {
 }
 
 nav {
-  text-align: center;
   position: static;
   float: left;
   height: 50px;
-  width: 200px;
+  width: 150px;
   padding-top: 50px;
-  font-size: 20px;
+  font-size: 18px;
+  text-align: left;
 }
