@@ -13,6 +13,13 @@ html, body {
   font-family: "Lato", sans-serif;
 }
 
+.main {
+  min-height: 100vh;
+  overflow: hidden;
+  display: block;
+  position: relative;
+  padding-bottom: 100px;
+}
 /*#7a93a3*/
 
 #navTop {
@@ -53,7 +60,10 @@ a.nav-link:hover {
   text-align: center;
   color: #202020;
   bottom: 0;
-  height: 2.5rem;
   width: 100%;
-  position: relative;
+  position: absolute;
+}
+
+* {
+  box-sizing: border-box;
 }
