@@ -33,6 +33,10 @@ body {
   padding: 10px;
 }
 
+a {
+  text-decoration: none;
+}
+
 /*nav {
   background-color: skyblue;
   position: static;
