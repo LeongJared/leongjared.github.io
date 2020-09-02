@@ -19,17 +19,20 @@ body {
 }
 
 nav {
+  background-color: grey;
   position: static;
+  display: block;
   float: left;
-  height: 50px;
+  height: 20px;
   width: 150px;
-  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-top: 10px;
   font-size: 18px;
-  text-align: left;
+  text-align: center;
 
 }
 
 #me {
   text-align: left;
-  font-size: 40px;
+  font-size: 35px;
 }
