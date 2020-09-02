@@ -64,6 +64,7 @@ a.nav-link:hover {
   padding-top: 370px;
   display: block;
   height: 100%;
+  padding-bottom: 1000px;
 }
 
 #contactInfo {
