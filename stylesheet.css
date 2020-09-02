@@ -16,7 +16,6 @@ html, body {
 
 .main {
   min-height: 100vh;
-  overflow: hidden;
   display: block;
   position: relative;
   padding-bottom: 100px;
