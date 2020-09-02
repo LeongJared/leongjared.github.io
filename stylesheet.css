@@ -37,21 +37,6 @@ a {
   text-decoration: none;
 }
 
-/*nav {
-  background-color: skyblue;
-  position: static;
-  display: inline;
-  float: left;
-  height: 60px;
-  width: 400px;
-  padding: 0;
-  margin: 0;
-  font-size: 18px;
-  text-align: center;
-  list-style-type: none;
-  font-size: 30px;
-}*/
-
 #about {
   position: static;
   padding-top: 20px;
