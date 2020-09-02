@@ -8,6 +8,7 @@ html, body {
   margin: 0;
   height: 100%;
   padding: 0;
+  width: 100%;
 
   font-family: "Lato", sans-serif;
 }
@@ -40,7 +41,6 @@ a.nav-link:hover {
 }
 
 #about {
-  position: static;
   padding-top: 50px;
   text-align: center;
   font-size: 35px;
