@@ -12,6 +12,7 @@ html {
   -o-background-size: cover;
 
   height: 190%;
+  max-height: 190%;
   width: 100%;
   margin: 0;
   padding: 0;
