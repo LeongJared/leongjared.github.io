@@ -57,6 +57,7 @@ a.nav-link:hover {
 }
 
 #contactInfo {
+  font-size: 18px;
   text-align: center;
   color: #202020;
   bottom: 0;
