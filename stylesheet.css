@@ -32,9 +32,10 @@ html {
 #navTop {
   width: 80%;
   margin: auto;
-  padding: 25px 0;
+  padding: 25px 10px;
   background-color: #6a8794;
   text-align: center;
+  border-radius: 10px;
 }
 
 #navTop.navBar.li {
@@ -100,4 +101,5 @@ a.nav-link:hover {
   font-size: 24px;
   padding: 30px 100px;
   background-color: #6a8794;
+  border-radius: 10px;
 }
