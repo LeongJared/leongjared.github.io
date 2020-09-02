@@ -19,7 +19,7 @@ body {
 }
 
 nav {
-  background-color: grey;
+  background-color: skyblue;
   position: static;
   display: block;
   float: left;
@@ -34,7 +34,8 @@ nav {
 }
 
 #about {
+  position: static;
   text-align: center;
   font-size: 35px;
-  color: #181818;
+  color: #202020;
 }
