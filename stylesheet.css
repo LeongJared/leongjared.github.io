@@ -46,3 +46,8 @@ a.nav-link:hover {
   font-size: 35px;
   color: #202020;
 }
+
+#contactInfo {
+  text-align: center;
+  color: #202020;
+}
