@@ -35,6 +35,10 @@ a {
   color: lightgray;
 }
 
+a.nav-link:hover {
+  text-decoration: underline;
+}
+
 #about {
   position: static;
   padding-top: 40px;
