@@ -51,12 +51,14 @@ a.nav-link:hover {
 }
 
 #about {
+  margin-top: 20px;
   padding-top: 50px;
   text-align: center;
   font-size: 35px;
   color: #202020;
   margin: auto;
   display: block;
+  height: 95%;
 }
 
 #contactInfo {
