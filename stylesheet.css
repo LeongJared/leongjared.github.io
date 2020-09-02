@@ -84,9 +84,8 @@ a.nav-link:hover {
 }
 #aboutMe {
   text-align: left;
-  padding-top: 200px;
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-left: 80px;
+  padding-right: 80px;
   background-color: #6a8794;
   padding-bottom: 40px;
 }
