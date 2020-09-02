@@ -56,7 +56,6 @@ a.nav-link:hover {
 }
 
 #about {
-  padding-top: 50px;
   text-align: center;
   font-size: 35px;
   color: #202020;
@@ -64,7 +63,7 @@ a.nav-link:hover {
   margin-top: -40px;
   display: block;
   height: 100%;
-  vertical-align: middle;  
+  vertical-align: middle;
 }
 
 #contactInfo {
