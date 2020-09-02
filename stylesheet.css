@@ -5,6 +5,9 @@ html, body {
 
   background: linear-gradient(to bottom right, #36454f, darkgray);
 
+  background-repeat: no-repeat;
+  background-size: cover;
+
   height: 100%;
   width: 100%;
   margin: 0;
@@ -66,7 +69,6 @@ a.nav-link:hover {
   color: #202020;
   bottom: 0;
   width: 100%;
-  position: absolute;
 }
 
 #contactInfo a {
