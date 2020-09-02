@@ -81,6 +81,7 @@ a.nav-link:hover {
 }
 #aboutMe {
   text-align: left;
+  padding-top: 200px;
   padding-left: 40px;
   padding-right: 40px;
 }
