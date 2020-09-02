@@ -72,3 +72,10 @@ a.nav-link:hover {
 * {
   box-sizing: border-box;
 }
+
+.center {
+  text-align: center;
+}
+#aboutMe {
+  text-align: left;
+}
