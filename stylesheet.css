@@ -15,6 +15,7 @@ html, body {
 #navTop {
   padding: 50px 0;
   background-color: tan;
+  text-align: center;
 }
 
 #navTop.navBar.li {
@@ -23,6 +24,7 @@ html, body {
 }
 
 #navTop a h2 {
+  text-align: center;
   font-size: 26px;
   display: inline;
   padding: 10px;
