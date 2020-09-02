@@ -1,4 +1,9 @@
 html {
+  font-family: "Lato", sans-serif;
+  color: #202020;
+}
+
+body {
   background: #36454f;
 
   background: -webkit-linear-gradient(to bottom right, #36454f, darkgray);
@@ -17,9 +22,6 @@ html {
   max-width: 100%;
   margin: 0;
   padding: 0;
-
-  font-family: "Lato", sans-serif;
-  color: #202020;
 }
 
 
