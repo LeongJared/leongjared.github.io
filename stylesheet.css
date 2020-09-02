@@ -60,10 +60,9 @@ a.nav-link:hover {
   font-size: 35px;
   color: #202020;
   margin: 0;
-  margin-top: -40px;
+  margin-top: -80px;
   display: block;
-  height: 100%;
-  vertical-align: middle;
+  height: 90%;
 }
 
 #contactInfo {
