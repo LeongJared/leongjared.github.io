@@ -31,6 +31,7 @@ html {
 
 #navTop {
   width: 80%;
+  margin: auto;
   padding: 25px 0;
   background-color: #6a8794;
   text-align: center;
@@ -94,6 +95,7 @@ a.nav-link:hover {
 
 #aboutMe {
   width: 80%;
+  margin: auto;
   text-align: left;
   font-size: 24px;
   padding: 30px 100px;
