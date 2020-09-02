@@ -22,7 +22,7 @@ nav {
   background-color: grey;
   position: static;
   display: block;
-  float: left;
+  float: top;
   height: 20px;
   width: 150px;
   padding-bottom: 20px;
