@@ -69,6 +69,7 @@ a.nav-link:hover {
   font-size: 18px;
   text-align: center;
   color: #202020;
+  padding-bottom: 20px;
   bottom: 0;
   width: 100%;
 }
